@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+body {
+    color:darkslateblue;
+}
+h1 {
+    color:darkslateblue;
+}
+h2 {
+    color:darkslateblue;
+}
+h3{
+    color:darkslateblue;
+}
+h4 { color:darkslateblue;
+
+}
+ul {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+  }
+.small-text{
+    font-size: x-small;
+}
+
+li {
+    margin: 30px;
+}
+footer {
+    text-align: center;
+    
+    .small-text{
+        font-size: x-small;
+    }
+    
+}
